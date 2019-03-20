@@ -1,0 +1,5 @@
+Riesel is a primality proving program for specific class of numbers of the form k*2^n-1.
+Basic Algorithms :
+Numbers are tested using Lucasian primality algorithms ,
+see Theorem 3.1. and Theorem 3.2. in
+http://arxiv.org/pdf/1506.03444v1.pdf
